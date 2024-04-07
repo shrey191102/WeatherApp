@@ -1,6 +1,4 @@
-# Weather
-[![Kotlin](https://img.shields.io/badge/kotlin-1.8.10-blue.svg?logo=kotlin)](http://kotlinlang.org)
-[![Gradle](https://img.shields.io/badge/Gradle-8-green?style=flat)](https://gradle.org)
+
 
 Weather is an Android app for Weather with Jetpack Compose. It uses [openweathermap API](https://openweathermap.org/api). It is single screen app which displays weather data for a city.
 There is a search function in the top app bar to search for any city and display its weather data.
